@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Making Favor Coffee</string>
+    <string name="e_mail">E-Mail :</string>
+    <string name="password">Password :</string>
+    <string name="new_register">New Register</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="title_haveSpace">Have Space</string>
+    <string name="messsage_haveSpace">Please Fill Every Blank</string>
+    <string name="title_idCard">ID Card False</string>
+    <string name="messsage_idCard">Please Fill 13 Digi on ID Card</string>
+    <string name="title_userFalse">User False</string>
+    <string name="messsage_userFalse">No This Email in my Database</string>
+    <string name="title_passFalse">Password False</string>
+    <string name="messsage_passFalse">Please Try again Password False</string>
+    <string name="title_activity___main">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
